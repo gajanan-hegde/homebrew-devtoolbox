@@ -1,6 +1,6 @@
 cask "devtoolbox" do
-  version "1.2"
-  sha256 "202effc42ad160ae9410c558adbc561dd1e1252e16c47fb584161eda5c852502"
+  version "1.3"
+  sha256 "d8ee87e2297aacbbc9d67131c33a311123fe598afd7611e5f9332260902afe8f"
 
   url "https://github.com/gajanan-hegde/DevToolbox/releases/download/v#{version}/DevToolbox-#{version}.zip"
   name "DevToolbox"
